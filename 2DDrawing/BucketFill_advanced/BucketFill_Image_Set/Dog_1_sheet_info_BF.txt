@@ -1,0 +1,32 @@
+          Frames #00000025
+     Frame width #00000144
+    Frame height #00000118
+     Sheet width #00000720
+    Sheet height #00000590
+ Frames in a row #00000005
+ Invisible color #05679932   $56AB3C
+   Frame / delay :00000000 *00000360
+   Frame / delay :00000001 *00000360
+   Frame / delay :00000002 *00000360
+   Frame / delay :00000003 *00000330
+   Frame / delay :00000004 *00000360
+   Frame / delay :00000005 *00000310
+   Frame / delay :00000006 *00000340
+   Frame / delay :00000007 *00000310
+   Frame / delay :00000008 *00000360
+   Frame / delay :00000009 *00000310
+   Frame / delay :00000010 *00000360
+   Frame / delay :00000011 *00000310
+   Frame / delay :00000012 *00000360
+   Frame / delay :00000013 *00000360
+   Frame / delay :00000014 *00000330
+   Frame / delay :00000015 *00000360
+   Frame / delay :00000016 *00000360
+   Frame / delay :00000017 *00000220
+   Frame / delay :00000018 *00000770
+   Frame / delay :00000019 *00000360
+   Frame / delay :00000020 *00000360
+   Frame / delay :00000021 *00000360
+   Frame / delay :00000022 *00000440
+   Frame / delay :00000023 *00000560
+   Frame / delay :00000024 *00000440

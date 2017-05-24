@@ -1,0 +1,34 @@
+The final output of all demo functions is always Canvas !
+
+Unused or not needed functions, you can simple remove from the modules
+
+Looking the animation demo files
+
+On this way you can output all things same hardware sprites, also on canvas !
+And you have a FlipBuffers function for flicker free and absolutely easy output on canvas
+This way realize automaticaly also alpha blending
+You can simple write in a foreground buffer and a background buffer
+Also you can read and written additional the output directly
+All what you written in the background buffer, BF add to the output
+All you written in the foreground buffer (hidden_Buffer) BF make a output same a sprite
+
+Hardware sprites are ghosts, you can not simple print or save the output
+BF create shapes (Brushes), you can simple saving or printing the complete output
+
+The FipBuffers_BF function works for your eyes similar the PB FlipBuffers function
+But internal absolutely other
+
+The FlipBuffers_BF function you must set at the beginning of the loop
+This function is a mighty feature, more flexible as a hardware buffer switch
+You have ever 100% controll, all over, you can read and write the buffer of your choice
+
+Sprite sheets :
+You can use any sprite sheets with BF, also optimized sprite sheets with asymmetic arrangements
+For a optimized sprite sheet define the complete sheet as one frame
+Then you can simple select a sprite inside the sheet with the Sprite_CSS_sheet... clip functions
+At the same way BF make the GIF output, you can see this in the GIF output demo codes
+A sample
+You can deactivate the invisible color for a sprite sheet or GIF output
+Make the output to a temporary image
+Rotate this temporary image with the special BF sprite rotating function
+Then you can output sprite sheets or GIF also with rotation

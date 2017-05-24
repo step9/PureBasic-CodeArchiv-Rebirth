@@ -1,0 +1,7 @@
+;   Description: Supports a lot of features for images
+;        Author: walbus
+;          Date: 2017-05-24
+;            OS: Windows, Linux, Mac
+; English-Forum: http://www.purebasic.fr/english/viewtopic.php?f=12&t=66927
+;  French-Forum: 
+;  German-Forum: 

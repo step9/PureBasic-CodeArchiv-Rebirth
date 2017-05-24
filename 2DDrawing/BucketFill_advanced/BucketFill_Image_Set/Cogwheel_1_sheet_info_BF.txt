@@ -1,0 +1,12 @@
+          Frames #00000005
+     Frame width #00000137
+    Frame height #00000139
+     Sheet width #00000274
+    Sheet height #00000417
+ Frames in a row #00000002
+ Invisible color #10987689   $A7A8A9
+   Frame / delay :00000000 *00000120
+   Frame / delay :00000001 *00000120
+   Frame / delay :00000002 *00000120
+   Frame / delay :00000003 *00000120
+   Frame / delay :00000004 *00000120
