@@ -45,7 +45,7 @@ Procedure.s Create_MainWindowDialog()
 	
 	ClearXML()
 	
-	Protected WinFlags = #WS_SYSMENU|#PB_Window_ScreenCentered|#PB_Window_Invisible|#PB_Window_SizeGadget| #PB_Window_MaximizeGadget | #PB_Window_MinimizeGadget
+	Protected WinFlags = #PB_Window_SystemMenu|#PB_Window_ScreenCentered|#PB_Window_Invisible|#PB_Window_SizeGadget| #PB_Window_MaximizeGadget | #PB_Window_MinimizeGadget
 	
  	Window(#winMain,"winMain","", WinFlags, #WinW, #winh, #WinW, #winz,0,0,"margin='10'")
  		vBox(1,0,0)
